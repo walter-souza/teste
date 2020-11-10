@@ -1,2 +1,2 @@
-# teste
-apenas alguns rascunhos
+# Teste
+Apenas alguns rascunhos de códigos perdidos por aí.
